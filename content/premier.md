@@ -1,7 +1,6 @@
 title: Les débuts
 author: Thibault
-date:2018-06-18
-modified:2018-06-21
+date:2018-06-23
 category: navigation
 summary: Résumé des périphéties précédentes au voyage et du trajet jusqu'à l'arrivée en Grèce
 
