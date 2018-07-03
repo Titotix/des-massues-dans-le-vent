@@ -11,9 +11,20 @@
     </header>
 
     <div class="entry-content">
+        {% if article.photo_image %}<img src="{{ SITEURL }}/{{ article.photo_image[1] }}" />{% endif %}
       {% include 'article_infos.html' %}
       {{ article.content }}
     </div><!-- /.entry-content -->
+    {% if article.photo_gallery %}
+    <div class="gallery">
+            {% for title, gallery in article.photo_gallery %}
+                <h1>{{ title }}</h1>
+                    {% for name, photo, thumb, exif, caption in gallery %}
+                            <a href="{{ SITEURL }}/{{ photo }}" title="{{ name }}" exif="{{ exif }}" caption="{{ caption }}"><img src="{{ SITEURL }}/{{ thumb }}"></a>
+                    {% endfor %}
+            {% endfor %}
+    </div> <!-- .gallery -->
+    {% endif %}
     {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
     <div class="comments">
       <h2>Comments !</h2>
