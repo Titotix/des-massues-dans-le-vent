@@ -33,3 +33,17 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['photos']
+
+# photos plugin conf
+PHOTO_LIBRARY = 'content/images'
+PHOTO_GALLERY = (1024, 768, 80)
+PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_THUMB = (192, 144, 60)
+PHOTO_SQUARE_THUMB = False
+PHOTO_WATERMARK = True
+PHOTO_WATERMARK_TEXT = 'Des massues dans le vent'
+
+PHOTO_RESIZE_JOBS = 2
