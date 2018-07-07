@@ -1,7 +1,7 @@
 title: Les débuts
 author: Thibault
 date:2018-06-23
-category: navigation
+category: journal de bord
 summary: Résumé des périphéties précédentes au voyage et du trajet jusqu'à l'arrivée en Grèce
 
 Introduction
