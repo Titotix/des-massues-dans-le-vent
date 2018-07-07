@@ -40,7 +40,7 @@ PLUGINS = ['photos']
 # photos plugin conf
 PHOTO_LIBRARY = 'content/images'
 PHOTO_GALLERY = (1024, 768, 80)
-PHOTO_ARTICLE = (760, 506, 80)
+PHOTO_ARTICLE = (640, 480, 80)
 PHOTO_THUMB = (192, 144, 60)
 PHOTO_SQUARE_THUMB = False
 PHOTO_WATERMARK = True
