@@ -1,12 +1,13 @@
 title: Les préquels du départ
 author: Chris
-date:2018-12-23
+date:2018-07-12
 category: journal de bord
-summary: Petit résumé du projet, de son origine, et événement jusqu'à la mise à l'eau du bateau. 
+summary: Petit résumé du projet, de son origine, et évènements jusqu'à la mise à l'eau du bateau. 
+status: draft
 
 # Les préquels du départ
 
-Thibault ayant ouvert la dance, il m'appartient de continuer.
+Thibault ayant ouvert la dance, il m'appartient de continuer, avec pas mal de retard...
 
 ## Le projet initial
 
