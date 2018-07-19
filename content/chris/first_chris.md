@@ -1,6 +1,6 @@
 title: Les préquels du départ
 author: Chris
-date:2018-07-12
+date:2018-07-11
 category: journal de bord
 summary: Petit résumé du projet, de son origine, et évènements jusqu'à la mise à l'eau du bateau 02/18 - 05/18.
 
