@@ -497,6 +497,8 @@ def process_gallery(generator, content, location):
                     continue
                 if pic in blacklist:
                     continue
+                if os.path.isdir(os.path.join(dir_gallery, pic)):
+                    continue
                 photo = os.path.splitext(pic)[0].lower() + '.jpg'
                 thumb = os.path.splitext(pic)[0].lower() + 't.jpg'
                 content_gallery.append((
