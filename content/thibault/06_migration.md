@@ -1,7 +1,7 @@
-title: migrer
+title: Migrer : changer de région, se déplacer vers un autre lieu.
 author: Thibault
 date: 07/28/18
-summary: La migration en question.
+summary: Un brin de discussion d'actualité.
 category: journal de bord
 
 J'ai eu une discussion hier soir avec un pakistanais. Je m'attendais bien à avoir un tel sujet de discussion avec quelqu'un ici tôt ou tard.  
