@@ -2,7 +2,7 @@ title: Mes premiers jours en tant que marin d'eau douce
 lang: fr
 author: Chris
 date: 2018-07-09
-category: navigation
+category: journal de bord
 summary: Les préquels du voyage, partie 2; 05/18 - 06/18
 
 # Mes premiers jours en tant que marin d'eau douce
