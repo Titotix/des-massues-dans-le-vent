@@ -1,7 +1,7 @@
 title: Second départ
 author: Chris
 date:2018-07-12
-category: journal de bord
+category: backpacking
 summary: La fin de la navigation et mes premiers jours en tant que backpacker 09/07 - 12/07
 
 # Athènes
