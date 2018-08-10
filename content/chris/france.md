@@ -1,0 +1,50 @@
+title: Mes premiers jours en tant que marin d'eau douce
+lang: fr
+author: Chris
+date: 2018-07-09
+category: navigation
+summary: Les préquels du voyage, partie 2; 05/18 - 06/18
+
+# Mes premiers jours en tant que marin d'eau douce
+
+Allez, petit retour en arrière...  
+Nous voilà donc sur la Saône, avec un bateau qui flotte et un moteur qui marche. Jusqu'à là, tout va bien ! Au programme, trois jours deux nuits afin de rejoindre Port Saint Louis du Rhône.
+
+## Descente vers la mer
+
+Passé les premiers moments de bonheur, ma première impression est : ça va être long ! Le moteur fait un bruit des plus ennuyants et je ne vois pas trop ce qu'il y a à faire à part admirer le paysage.  
+Heureusement, Gilles profite de ce temps afin de m'aider à prendre mes marques sur le bateau et m'assomme de vocabulaires et termes marins. Vient ensuite le temps de la découverte des différents coffres du bateau, c'est simple il y en a partout. Tout est démontable, les banquettes, le plancher et même les murs. Je découvre plein d'outils dont j'ignorais l'existence et dont il faudra que j'apprenne bien vite à m'en servir.  
+On enchaîne par l'apprentissage des nœuds, nœud de cabestan pour les pare-battages, nœud de chaise pour toutes les drisses et écoutes (des cordages en gros, mais oui chaque cordage à son petit nom), nœud coulant et bouton d'arrêt afin de confectionner des manilles textile, nœud de huit afin d'empêcher les cordages de filer dans le mat (ouf enfin un que je connais, vive l'escalade !), tours mort et huit pour les amarres et pour finir comment confectionner un palan (système de tension permettant de décupler la force développée, semblable à un système à base de poulies) en utilisant un ensemble de nœud de plein poing.  
+La suite, le passage de nos première écluses. Mes premières manœuvre ! Finalement, je n'ai pas grand-chose à faire, me mettre à l'avant du bateau et défendre. En effet pour passer une écluse le bateau s'avance dans le couloir et s'amarre sur une bitte par le côté. Rien de bien compliqué en soit, mais avec un bateau à quille longue soit peu manœuvrant, on sent directement la pression monter...
+
+Après, arrive la première manœuvre d'amarrage. Il s'agit là d'une autre paire de manche. Il faut prendre en compte le courant, le vent, la topologie du port. Préparer l'approche, mettre les pare-battages du bon côté, s'assurer que les amarres sont claires et se préparer à sauter du bateau (en mouvement) sur le quai. Une fois sur le plancher des vaches se précipiter vers la bite et s'apprêter à retenir le bateau. En fonction des conditions, cette manœuvre peut être vue comme une simple formalité ou être source de stress et être dangereuse pour le bateau (ainsi qu'éventuelllement pour l'équipage).  
+Manœuvre souvent bien simplifiée par la présence de marin sur le quai, prêt à recevoir les amarres lancées depuis le bateau. Il est d'ailleurs de coutume pour un capitaine à quai d'envoyer ces équipiers aider les bateaux arrivants. J'ai particulièrement apprécié cette pratique qui se termine souvent en invitation à prendre l'apéro et par d'éventuels pourboires ;) A Nafpaktos on me donnera jusqu'à 20 € pour l'amarrage d'un yatch, à 10 € le nœud de chaise, je vais changer de travail ^^
+
+Pour revenir à mon sujet initial, la descente du Rhône, ça aura été une expérience relativement plaisante. J'ai été surpris par certain paysage qui m'ont donné l'impression de descendre l'Amazonie. J'ai redécouvert qu'il est bon d'avoir plein de temps pour soi et pas grand-chose à faire, c'est reposant ! J'ai repris gout à faire la cuisine et mon cerveau aura bien fonctionné afin d'assimiler une telle quantité d'informations.  
+Quelques petits point noirs cependant, premières altercations avec Gilles dont je découvre le caractère, un homme "montant rapidement dans les tours" selon sa propre expression. Soit colérique et stressant rapidement. Ceci sans parler de son côté vieille France (sexisme et humour douteux). Cependant le plus inquiétant à mes yeux fut la découverte de ces ennuis de santés. Il lui manque un œil, ce qu'il le gêne souvent afin d'évaluer correctement la situation. La goutte (maladie entrainant des inflammations aux niveaux des articulations à mettre en relation avec l'abus de protéine et alcool). Enfin un certain encroutement général qu'il doit autant à son âge qu’à un manque certain d'activité physique ces dernières années. On s'inquiétera particulièrement avec Thibault lorsqu'il débarquera à terre le premier soir puisqu'il réussira à s'entailler convenablement le pied par le simple fait de descendre du bateau.
+
+Au passage, au cours de cette descente, on s'arrêtera à Vanves. Un petit village du sud dont sans surprise l'activité principale des habitants et la pétanque !
+On en profitera pour installer une slack et jongler un peu, il s'agira de la première fois ou l'on nous demandera si l'on est des professionnels et si l'on a l'intention de donner une représentation, ça fait chaud au cœur :)
+
+## Port Saint Louis du Rhône
+
+En arrivant enfin vers l'embouchure du Rhône on commence à sentir l'iode, ça fait plaisir !  
+On rentre dans le port, ma première vision d'une forêt de mats. On voit un beau bâtiment d'une autre époque, un trois mâts en bois, puis direction le chantier naval de Seatex.
+
+Que dire sur Port Saint Louis, ha oui... Des moustiques, des moustiques, des moustiques... Et de la désolation.  
+Le Gilles colérique devant les réparations qui s'éternisent. La plage aux moustiques, le coup de l'éolienne... Et le mât qui tombe !
+
+Bref, vous l'aurez compris, il ne s'agira pas là d'une de mes expériences les plus plaisantes de ce voyage. Cette ville est littéralement peuplée de moustiques, et d'une jeunesse en mal qui ne sait pas bien quoi faire, à part trainer à côté de leurs voitures et écouter du rap de merde (à leur décharge, la ville doit compter trois commerces tout au plus) !  
+Les réparations ont durées il me semble une éternité, avec un Gille d'une humeur de plus en plus exécrable. Les opérations de déchargement des mâts et de rematage ont été parmi les pires moments du voyage. Une bonne grosse grue marchant à l'essence, un grutier des plus sympathiques, opération délicate vu que la grue vient chercher les mats couchés sur le bateau, si un autre bateau passe au moment fatidique la gite ainsi crée peut mettre en péril toute l'opération.
+La première opération se passera plutôt bien, on enlève les mâts du bateau et une fois à terre on les prépare pour leur mise en place le lendemain matin. L'opération de rematage par contre fut sportive. Réveillé une heure en avance, pas le temps de déjeuner, tout le monde sur le pont. La mise en place du grand mât prendra plus de temps que prévu et mets les nerfs de tout le monde à rude épreuve. Une fois mis en place, on se dit que c'est bon, le pire est passé... Vers la fin de l'opération de mise en place du mât d'artimon, à cause d'une incompréhension avec le grutier, un homme pressé et pas très communicatif, il retire la grue qui tenait le mât debout alors que tous les haubans (câbles de soutien du mât) n'étaient pas totalement fixés.  
+Petit moment de flottement, je vois le mat vaciller, première pensée, gueuler attention, le mât ! Deuxième pensée, merde on ne partira jamais, le bateau va morfler. Troisième pensée, certainement pas la meilleure idée du siècle, me précipiter vers le mât qui à déjà eu le temps de tomber et dont la chute fut heureusement amortis par les balcons (renforts en métal sur tout le contour du bateau servant normalement à nous empêcher de tombé à l'eau) pour tenter de l'empêcher de tomber à l'eau. Bien entendu, un Christophe de 60 kg face à un mat de 150, je peux vous dire que mon bras (qui a pris juste l'impact du rebond du mât contre le balcon) a morflé. Heureusement tous les gens du coin accours pour venir nous aider et on arrive à le récupérer avant qu'il glisse complétement dans l'eau.  
+Finalement, à part un coffre et le feu de navigation, pas de dégâts à constater, et par chance personne n'était sur la trajectoire de chute direct du mât, sinon il y aurait eu un mort.
+
+Pour la blague, on se rendra compte en mettant en place les voiles que l'éolienne, que Gilles a posé afin de faire gagner en autonomie énergétique au bateau, nous empêchera d'utiliser la voile du mât d'artimon. Pratique d'avoir un bateau à deux mâts (un ketch) si ce n'est pour en utiliser qu'un. Thibault ayant aidé Gilles à la mettre en place et ayant vu le coup venir rira bien jaune...  
+Enfin, afin de se remettre de toutes ces émotions, on se décide à aller se mettre en quête d'une plage dans le coin avec mon compère. On trouvera un marécage et plein de moustiques. Merci Google pour cette belle plage notée quatre étoiles sur Maps !
+
+Durant cette quinzaine de jours, je me suis demandé plus d'une fois si je n'aurais pas mieux faits de tout plaquer et prendre un avion en direction de l'Amérique du Sud. Mais bon, après avoir investi du temps et pas mal d'énergie dans un projet, il est difficile de revenir sur ses choix. Puis une fois engagé, autant tenir sa parole ! Heureusement il y aura quelques moments de détente bien sympathique, à base de slackline, de jongle et de rhum !
+
+Dernier fait notable de cet épisode, deux jours avant le départ on rencontrera Trizet, un ancien équipier de Gilles venu nous souhaiter bon vent. Un homme des plus charmants, enfariné de la tête au pied. Boulanger pâtissier de profession, il nous fera un petit workshop sur comment faire du pain, avec en bonus les conseils et astuces pour en faire en pleine navigation. On se prêtera au jeu avec Thibault, et non content de pouvoir manger du pain frais tous les matins en pleine mer, cette activité nous prendra pas mal de temps et nous donnera l'occasion d'avoir des débats passionnés sur comment faire survivre notre levain.
+
+Allez, je vous abandonne ici pour aujourd'hui, promis pour la prochaine fois je vous parlerais de la navigation à proprement parler et j'essayerais de rajouter des photos à mes articles afin d'en rendre la lecture plus digeste.
