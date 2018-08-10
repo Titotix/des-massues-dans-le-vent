@@ -1,7 +1,7 @@
 title: Un soir, une rencontre.
 lang:fr
 author: Chris
-date:2018-07-10
+date:2018-08-10
 category: backpacking
 summary: Conseils de jongleur à jongleur, 08-09/08/18
 
