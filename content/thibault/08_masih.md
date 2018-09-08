@@ -1,6 +1,7 @@
 title: Le restaurant
 author: Thibault
 date:2018-09-03
+update: 2018-09-08
 category: journal de bord
 summary: Se faire inviter au restaurant grec par un afghan.
 
@@ -24,3 +25,5 @@ Il a finit par traverser illégalement, avec sa soeur, la mer qui sépare la Tur
 Il est à Lesvos depuis maintenant un an et attend la réponse de sa demande d'asile le 7 septembre.  
 
 Il payera le restaurant. Pour répondre à mes refus, il m'indique qu'habituellement en Afghanistan, celui qui propose d'aller au restaurant est celui qui invite. Je lui ai répondu qu'en France, habituellement, on rendait la pareil quand on se voyait offrir un restaurant. Je ne suis pas certain de l'exactitude culturel de cette assertion, mais ça me permettra de découvrir un autre restaurant.
+
+Mise-à-jour : Mon ami a obtenu l'asile en Grèce !
